@@ -1,6 +1,6 @@
 ## Welcome to my page 👋
 
-<a href = "[url](https://zainrehmanportfolio.netlify.app)"> link to portfolio!</a>
+<a href = "[url](https://zainrehmanportfolio.netlify.app)"> [link to portfolio!](https://zainrehmanportfolio.netlify.app)</a>
 
 
 
